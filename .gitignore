@@ -58,3 +58,5 @@ sources.nix
 
 result
 result-doc
+
+/.direnv
